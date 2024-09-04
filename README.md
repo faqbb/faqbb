@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola, como va? 👋
+  🔭 I’m currently working on medical use software
+- 🌱 Actualmente estoy aprendiendo Java
+
+- Bienvenidos al indice de mis proyectos!🤯
+-
+- I will fix that bug after the gym I promise😇
 
 <!--
 **faqbb/faqbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
