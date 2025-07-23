@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido/a! Mi nombre es Facundo Barberia</h1>
 <h3 align="center">Soy un desarrollador radicado en Argentina</h3>
 
-* 🔭 Actualmente estoy trabajando en **software médico para gestión**
+* 🔭 Actualmente estoy trabajando en **IntermediaIT**
 
 * 💬 ¡Preguntame sobre **React**!
 
